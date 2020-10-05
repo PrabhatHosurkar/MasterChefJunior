@@ -1,1 +1,2 @@
-# MasterChefJunior
+This is a mushroom pizza. As the name tells you, the main ingredient will be mushrooms. Hope you enjoy the pizza.
+The ingredients will be mushrooms, mozzarella cheese, dough, tomato sauce, olive oil, yeast, tomato, basil, sugar and olive oil.
